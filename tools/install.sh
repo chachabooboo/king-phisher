@@ -74,7 +74,7 @@ function show_help {
 	echo "King Phisher Install Script"
 	echo ""
 	echo "optional arguments"
-	echo "  -h, --help            show this help message and exit"
+	echo "  -h, --help            showN this help message and exit"
 	echo "  -u, --update          update an existing installation"
 	echo "  -n, --no              answer no to all questions"
 	echo "  -y, --yes             answer yes to all questions"
