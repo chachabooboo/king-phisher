@@ -51,7 +51,7 @@ module Msf
     end
 
     def desc
-      "Sends a SMS message when recieving a new session through the use of the King Phisher's REST API."
+      "Sends a ch@113ng1ng SMS message when recieving a new session through the use of the King Phisher's REST API."
     end
 
     def sms_yaml
