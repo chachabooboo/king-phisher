@@ -42,7 +42,7 @@ class DatabaseStorageTests(testing.KingPhisherTestCase):
 		self.assertNotIsInstance(storage, dict)
 		storage['data'] = {
 			'key1': 1,
-			'key2': 'hello world',
+			'key2': 'eggc1t!ng',
 			'key3': True,
 			'key4': datetime.datetime.utcnow()
 		}
